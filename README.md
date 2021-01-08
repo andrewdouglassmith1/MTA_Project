@@ -22,4 +22,5 @@
   * Weather appears to have not impact on traffic -> don't worry about sending canvassers out on hot days, cold days, or rainy days
 * **Group:**
   * Andrew Smith, Sean Salem, Garreth Cline, Carla Moestafa
+  * Team worked together to collate all individual work into one notebook
 
