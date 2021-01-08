@@ -20,4 +20,6 @@
   * The pandemic caused a steep drop in subway usage around 3/15/2020 and has slowly rebounded throughout the year -> try to hold canvassing off as late as possible to be most effective
   * Weekdays see significantly more traffic than weekends with no discernible difference between weekdays -> send canvassers on weekdays
   * Weather appears to have not impact on traffic -> don't worry about sending canvassers out on hot days, cold days, or rainy days
+* **Group:**
+  * Andrew Smith, Sean Salem, Garreth Cline, Carla Moestafa
 
