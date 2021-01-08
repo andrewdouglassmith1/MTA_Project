@@ -6,7 +6,7 @@
   * MTA turnstile data
   * NOAA NYC Weather data
 * **Target variables:**
-  * Daily total exits and entries at turnstiles, subway booths and stations
+  * Daily total entries at turnstiles, subway booths and stations
 * **Tools used include:**
   * Pandas
   * Requests
